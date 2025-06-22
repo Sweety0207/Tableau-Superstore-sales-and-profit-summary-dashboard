@@ -1,5 +1,5 @@
 # Tableau-Superstore-sales-and-profit-summary-dashboard
-It provides a high-level overview of sales and profit performance across different categories, sub categories, regions, segments
+It creates a interactive dashboard and provides a high-level overview of sales and profit performance across different categories, sub categories, regions, segments
 
 Key Highlights:
 1) Sales & Profit by Region/State
